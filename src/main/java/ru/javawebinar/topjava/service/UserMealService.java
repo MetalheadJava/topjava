@@ -5,4 +5,5 @@ package ru.javawebinar.topjava.service;
  * 15.06.2015.
  */
 public interface UserMealService {
+    int i;
 }
